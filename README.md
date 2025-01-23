@@ -26,7 +26,7 @@ This project predicts students' final grades based on various features such as a
   joblib
   tkinter
 
-## **Dataset
+## **Dataset**
 The dataset used is based on student performance from a publicly available source. Key features include:
 
 - Absences: Number of school days missed.
@@ -35,7 +35,7 @@ The dataset used is based on student performance from a publicly available sourc
 - G1 and G2: Grades from the first and second periods.
 - G3: Final grade (target variable).
 
-## **Model Evaluation
+## **Model Evaluation**
 The model was evaluated using:
 
 Mean Squared Error (MSE)
